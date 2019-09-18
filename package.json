@@ -1,0 +1,25 @@
+{
+  "name": "snipcart-nextjs-seo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "next": "^9.0.5",
+    "node-sass": "^4.12.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "nextjs-sitemap-generator": "^0.1.1"
+  }
+}

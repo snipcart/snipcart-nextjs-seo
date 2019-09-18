@@ -18,7 +18,7 @@ const Index = (props) => {
         <ProductList products={props.products} />
       </main>
       <Footer />
-      <script src="https://cdn.snipcart.com/themes/v3.0.0-beta.3/default/snipcart.js"></script>
+      <script src="https://cdn.snipcart.com/themes/v3.0.0-beta.4/default/snipcart.js"></script>
       <div hidden id="snipcart" data-api-key="MzMxN2Y0ODMtOWNhMy00YzUzLWFiNTYtZjMwZTRkZDcxYzM4"></div>
     </div>
   )
